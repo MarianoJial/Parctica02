@@ -1,0 +1,10 @@
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.libreria.dll
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.libreria.pdb

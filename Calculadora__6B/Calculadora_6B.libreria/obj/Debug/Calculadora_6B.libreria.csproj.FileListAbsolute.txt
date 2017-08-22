@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.libreria\bin\Debug\Calculadora_6B.libreria.dll
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.libreria\bin\Debug\Calculadora_6B.libreria.pdb
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.libreria\obj\Debug\Calculadora_6B.libreria.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.libreria\obj\Debug\Calculadora_6B.libreria.dll
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.libreria\obj\Debug\Calculadora_6B.libreria.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\bin\Debug\Calculadora_6B.consola.exe
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\bin\Debug\Calculadora_6B.consola.pdb
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\bin\Debug\Calculadora_6B.libreria.dll
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\bin\Debug\Calculadora_6B.libreria.pdb
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.exe
+C:\Users\Alumno\Desktop\Calculadora___6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.pdb
+E:\Calculadora___6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.exe
+E:\Calculadora___6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.pdb
+C:\Users\maria\Desktop\Calculadora__6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.exe
+C:\Users\maria\Desktop\Calculadora__6B\Calculadora_6B.consola\obj\Debug\Calculadora_6B.consola.pdb
